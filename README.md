@@ -1,4 +1,4 @@
-# multimedia-data-processing-cpp-exercises
+# Multimedia Data Processing C++ Exercises
 C++ exercises for multimedia data compressing/decompressing.
 
 Made for Multimedia Data Processing Exam @ UNIMORE 
