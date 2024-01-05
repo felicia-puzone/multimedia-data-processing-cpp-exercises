@@ -1,0 +1,4 @@
+﻿  PAMexercise.cpp
+C:\Users\ruteryan\Desktop\PAMexercise\PAMexercise\PAMexercise.cpp(37,1): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\ruteryan\Desktop\PAMexercise\PAMexercise\PAMexercise.cpp(54,2): message : see reference to class template instantiation 'PAM_IMG<T>' being compiled
+  PAMexercise.vcxproj -> C:\Users\ruteryan\Desktop\PAMexercise\x64\Debug\PAMexercise.exe
