@@ -1,0 +1,6 @@
+﻿  Elias.cpp
+C:\Users\ruteryan\Desktop\Elias\Elias\Elias.cpp(149,41): warning C4244: 'argument': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\ruteryan\Desktop\Elias\Elias\Elias.cpp(150,44): warning C4244: 'argument': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\ruteryan\Desktop\Elias\Elias\Elias.cpp(156,46): warning C4244: 'argument': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\ruteryan\Desktop\Elias\Elias\Elias.cpp(157,54): warning C4244: 'argument': conversion from 'double' to 'uint8_t', possible loss of data
+  Elias.vcxproj -> C:\Users\ruteryan\Desktop\Elias\x64\Debug\Elias.exe
