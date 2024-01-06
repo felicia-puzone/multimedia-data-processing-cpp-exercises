@@ -1,0 +1,5 @@
+﻿  YUVMPEG2.cpp
+C:\Users\ruteryan\Desktop\YUVMPEG2\YUVMPEG2\YUVMPEG2.cpp(39,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ruteryan\Desktop\YUVMPEG2\YUVMPEG2\YUVMPEG2.cpp(40,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ruteryan\Desktop\YUVMPEG2\YUVMPEG2\YUVMPEG2.cpp(41,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  YUVMPEG2.vcxproj -> C:\Users\ruteryan\Desktop\YUVMPEG2\x64\Debug\YUVMPEG2.exe
