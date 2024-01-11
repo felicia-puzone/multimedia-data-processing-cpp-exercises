@@ -243,6 +243,7 @@ bool lzvn_decode(std::string inputfile, std::string outputfile)
         {
           std::cout << "med_d_";
 
+          std::cout << "\n" << output.str();
           //how many literals?
 
           uint8_t ll = (byte & 0x18) >> 3;
@@ -279,6 +280,7 @@ bool lzvn_decode(std::string inputfile, std::string outputfile)
           }
 
           //add cycled bytes
+          std::cout << "\n" << output.str();
           std::string tmp = output.str().substr(output.str().length() - distance, output.str().length());
 
           int i = 0;
@@ -302,6 +304,7 @@ bool lzvn_decode(std::string inputfile, std::string outputfile)
 
         else if (byte == 0x06)
         {
+            std::cout << '\n' << output.str() << '\n';
             --payload_len;
 
             for (int i = 0; i < 7; ++i)
