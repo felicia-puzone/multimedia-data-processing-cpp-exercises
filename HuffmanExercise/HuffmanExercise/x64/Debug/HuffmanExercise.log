@@ -1,0 +1,4 @@
+﻿  HuffmanExercise.cpp
+C:\Users\felic\Desktop\HuffmanExercise\HuffmanExercise\HuffmanExercise.cpp(115,59): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\felic\Desktop\HuffmanExercise\HuffmanExercise\HuffmanExercise.cpp(237,34): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  HuffmanExercise.vcxproj -> C:\Users\felic\Desktop\HuffmanExercise\x64\Debug\HuffmanExercise.exe
